@@ -340,10 +340,15 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.c# {
+.html5 {
+  	width: 65%;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
+}
+.csharp {
   	width: 90%;
-  	-moz-animation: c# 2s ease;
-  	-webkit-animation: c# 2s ease;
+  	-moz-animation: csharp 2s ease;
+  	-webkit-animation: csharp 2s ease;
 }
 .unity {
   	width: 40%;
@@ -373,7 +378,11 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes c# {
+@-moz-keyframes html5 {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-moz-keyframes csharp {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
@@ -402,7 +411,11 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes c# {
+@-webkit-keyframes html5 {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-webkit-keyframes csharp {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
