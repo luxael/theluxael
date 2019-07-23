@@ -1,3 +1,3 @@
 # Portfolio Project
-My simple but effective portfolio project.
+My simple but useful portfolio project.
 Experimenting and studying on certain aspects of making simple web sites.
