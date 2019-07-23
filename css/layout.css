@@ -442,7 +442,7 @@ ul#nav li.current a { color: #D4AF37; }
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 16px/24px 'opensans-semibold', sans-serif;
+   font: 16px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
