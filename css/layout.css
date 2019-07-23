@@ -449,6 +449,10 @@ ul#nav li.current a { color: #D4AF37; }
    margin-bottom: 48px;
    color: #D4AF37;
 }
+#portfolio h1 span {
+   border-bottom: 3px solid #D4AF37;
+   padding-bottom: 6px;
+}
 
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
