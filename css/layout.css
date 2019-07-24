@@ -38,7 +38,6 @@ header {
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
-   z-index: 2;
 }
 canvas{
 display: block;
@@ -57,7 +56,6 @@ background-image: url('');
 background-size: cover;
 background-position: 50% 50%;
 background-repeat: no-repeat;
-z-index: 1;
 }
 
 /* vertically center banner section */
