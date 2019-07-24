@@ -43,7 +43,6 @@ header {
 canvas{
 display: block;
 vertical-align: bottom;
-background-attachment:fixed;
 }
 
 /* ---- particles.js container ---- */
