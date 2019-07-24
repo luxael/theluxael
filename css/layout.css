@@ -54,7 +54,7 @@ canvas {
   background-image: url("");
   background-repeat: no-repeat;
   background-size: cover !important;
-  background-position: 100% 100%;
+  background-position: 50% 50%;
 }
 
 /* vertically center banner section */
