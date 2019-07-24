@@ -40,9 +40,6 @@ header {
    overflow: hidden;
 }
 canvas{
-width: 100% !important;
-height: 800px !important;
-margin:auto;
 display:block;
 vertical-align:middle;
 }
