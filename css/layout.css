@@ -39,6 +39,24 @@ header {
    text-align: center;
    overflow: hidden;
 }
+canvas{
+width: 100%;
+height: 800px;
+display:block;
+vertical-align:text-top;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+position: absolute;
+width: 100%;
+height: 800px;
+background-image: url('');
+background-size: cover;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+}
 
 /* vertically center banner section */
 header:before {
