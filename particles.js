@@ -27,7 +27,7 @@ var pJS = function(tag_id, params){
         }
       },
       color: {
-        value: '#fff'
+        value: '#F0E68C'
       },
       shape: {
         type: 'circle',
@@ -67,7 +67,7 @@ var pJS = function(tag_id, params){
       line_linked: {
         enable: true,
         distance: 150,
-        color: '#fff',
+        color: '#F0E68C',
         opacity: 0.4,
         width: 1
       },
