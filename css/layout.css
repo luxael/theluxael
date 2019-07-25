@@ -716,7 +716,6 @@ call-to-action .button {
 #testimonials .header-col h1:before {
    font-family: "Font Awesome 5 Free";
    content: "\f10e";
-   font-weight: 400;
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
