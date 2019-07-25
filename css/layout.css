@@ -647,6 +647,7 @@ ul#nav li.current a { color: #D4AF37; }
 #call-to-action .header-col h1:before {
    font-family: "Font Awesome 5 Free";
    content: "\f06e";
+   font-weight: 400;
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
@@ -715,6 +716,7 @@ call-to-action .button {
 #testimonials .header-col h1:before {
    font-family: "Font Awesome 5 Free";
    content: "\f10e";
+   font-weight: 400;
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
@@ -860,6 +862,7 @@ call-to-action .button {
 #contact h1:before {
    font-family: "Font Awesome 5 Free";
    content: "\f0e0";
+   font-weight: 400;
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
