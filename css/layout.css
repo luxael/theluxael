@@ -713,8 +713,8 @@ call-to-action .button {
 }
 #testimonials h1 span { display: none; }
 #testimonials .header-col { padding-top: 9px; }
-#testimonials .header-col h1:before {
-   font-family: "Font Awesome 5 Free";
+#testimonials .header-col h1::before {
+   font-family: "FontAwesome";
    content: "\f10e";
    font-weight: 400;
 	padding-right: 10px;
