@@ -1336,3 +1336,12 @@
 .fa-plus-square-o:before {
   content: "\f196";
 }
+.fa-twitch:before {
+  content: "\f1e8";
+}
+.fa-steam-square:before {
+  content: "\f1b7";
+}
+.fa-reddit:before {
+  content: "\f1a1";
+}
