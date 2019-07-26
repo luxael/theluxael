@@ -647,7 +647,7 @@ ul#nav li.current a { color: #D4AF37; }
 #call-to-action .header-col h1:before {
    font-family: "Font Awesome 5 Free";
    content: "\f06e";
-   font-weight: 700;
+   font-weight: 600;
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
