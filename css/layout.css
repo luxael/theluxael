@@ -644,10 +644,10 @@ ul#nav li.current a { color: #D4AF37; }
    color: #fff;
 }
 #call-to-action h1 span { display: none; }
-#call-to-action .header-col h1:before {
+#call-to-action .header-col h1:before *{
    font-family: "Font Awesome 5 Free";
    content: "\f06e";
-   font-weight: 600;
+   font-weight: 900;
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
