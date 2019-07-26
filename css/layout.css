@@ -68,6 +68,9 @@ header:before {
    vertical-align: middle;
    height: 100%;
 }
+header .pop-up {
+   z-index:999 !important;
+}
 header .banner {
    display: inline-block;
    vertical-align: middle;
