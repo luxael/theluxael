@@ -42,8 +42,6 @@ header {
 }
 canvas{
 display: block;
-position: relative;
-left: 0;
 vertical-align: bottom;
 }
 
