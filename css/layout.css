@@ -62,12 +62,12 @@ background-repeat: no-repeat;
 
 /* ---- Typewriter animation pure CSS ---- */
 
-.css-typing p {
+.css-typing h3 {
   border-right: .15em solid #D4AF37;
   white-space: nowrap;
   overflow: hidden;
 }
-.css-typing p:nth-child(1) {
+.css-typing h3:nth-child(1) {
   width: 10.3em;
   -webkit-animation: type 2s steps(40, end);
   animation: type 2s steps(40, end);
