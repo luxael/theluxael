@@ -62,24 +62,60 @@ background-repeat: no-repeat;
 
 /* ---- Typewriter animation pure CSS ---- */
 
-.line-1{
-    border-right: 2px solid rgba(255,255,255,.75);
-    white-space: nowrap;
-    transform: translateY(-50%);
-    overflow: hidden;
+.css-typing p {
+  border-right: .15em solid #D4AF37;
+  white-space: nowrap;
+  overflow: hidden;
 }
-/* Animation */
-.anim-typewriter{
-  animation: typewriter 4s steps(32) 1s 1 normal both,
-             blinkTextCursor 500ms steps(32) infinite normal;
+.css-typing p:nth-child(1) {
+  width: 10.3em;
+  -webkit-animation: type 2s steps(40, end);
+  animation: type 2s steps(40, end);
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
 }
-@keyframes typewriter{
-  from{width: 0;}
-  to{width: 24em;}
+
+@keyframes type {
+  0% {
+    width: 0;
+  }
+  1% {
+    opacity: 1;
+  }
+  99.9% {
+    border-right: .15em solid #D4AF37;
+  }
+  100% {
+    opacity: 1;
+    border: none;
+  }
 }
-@keyframes blinkTextCursor{
-  from{border-right-color: rgba(255,255,255,.75);}
-  to{border-right-color: transparent;}
+
+@-webkit-keyframes type {
+  0% {
+    width: 0;
+  }
+  1% {
+    opacity: 1;
+  }
+  99.9% {
+    border-right: .15em solid #D4AF37;
+  }
+  100% {
+    opacity: 1;
+    border: none;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+@-webkit-keyframes blink {
+  50% {
+    border-color: tranparent;
+  }
 }
 
 /* vertically center banner section */
