@@ -69,12 +69,12 @@ background-repeat: no-repeat;
 }
 /* Animation */
 .anim-typewriter{
-  animation: typewriter 21s steps(235) 1s 1 normal both,
-             blinkTextCursor 500ms steps(235) infinite normal;
+  animation: typewriter 4s steps(32) 1s 1 normal both,
+             blinkTextCursor 500ms steps(32) infinite normal;
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 70%;}
+  to{width: 24em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: rgba(255,255,255,.75);}
