@@ -65,7 +65,8 @@ background-repeat: no-repeat;
 .line-1{
     border-right: 2px solid rgba(255,255,255,.75);
     white-space: nowrap;
-    transform: translateY(-50%);  
+    transform: translateY(-50%);
+    overflow: hidden;
 }
 /* Animation */
 .anim-typewriter{
