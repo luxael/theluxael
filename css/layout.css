@@ -70,28 +70,28 @@ background-repeat: no-repeat;
 .css-typing h3:nth-child(1) {
   width: 40em;
   -webkit-animation: type 5s steps(76, end);
-  animation: type 7s steps(76, end);
+  animation: type 5s steps(76, end);
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 }
 .css-typing h3:nth-child(2) {
   width: 40em;
   -webkit-animation: type 5s steps(76, end);
-  animation: type 7s steps(76, end);
+  animation: type 5s steps(76, end);
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 }
 .css-typing h3:nth-child(3) {
   width: 40em;
   -webkit-animation: type 5s steps(74, end);
-  animation: type 7s steps(74, end);
+  animation: type 5s steps(74, end);
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 }
 .css-typing h3:nth-child(4) {
   width: 40em;
   -webkit-animation: type 5s steps(73, end);
-  animation: type 7s steps(73, end);
+  animation: type 5s steps(73, end);
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 }
